@@ -1,5 +1,7 @@
 # Freelance-portfolio-landing-page
 
+![image](https://github.com/Seun-works/Freelance-portfolio-landing-page/blob/main/screenshot-images/preview-screenshot.png?raw=true)
+
 ## Table of contents
 
 - [Overview](#overview)
