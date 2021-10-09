@@ -1,11 +1,14 @@
 # Freelance-portfolio-landing-page
 
+Website Preview
 ![image](https://github.com/Seun-works/Freelance-portfolio-landing-page/blob/main/screenshot-images/preview-screenshot.png?raw=true)
+
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
 
@@ -30,6 +33,9 @@ The projects goal was to:
 - Mobile-first workflow
 - Bootstrap
 
+
+### What I learned 
+Learning how to use bootstrap wasn't as easy as i thought it would be, but it's good to know that i have a tool that can reduce the time it would normally take to build repsonsive websites under my belt.
 
 
 
